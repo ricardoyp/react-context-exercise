@@ -1,4 +1,4 @@
-# Excersice react context - countries 🌍
+# Excersice react context - beers 🍻
 
 En este ejercicio tendrás que crear una aplicación en React que permita listar todas las cevezas que nos devuelve la API de punkapi.com
 
